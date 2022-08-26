@@ -1,1 +1,1 @@
-https://image-filter-code-hassan-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/1172253/pexels-photo-1172253.jpeg?auto=compress%26cs=tinysrgb%26dpr=1%26w=500
+http://image-filter-code-hassan-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/1172253/pexels-photo-1172253.jpeg?auto=compress%26cs=tinysrgb%26dpr=1%26w=500
